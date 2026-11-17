@@ -1,0 +1,33 @@
+{
+  "allowed_origins": [
+    "https://source-001.example.test"
+  ],
+  "steps": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://source-001.example.test/records/route-A",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-1.bin",
+        "status": 200,
+        "bytes": 176,
+        "sha256": "fafa37cb3efada8c640c760e0721893549b33b7aa81a974e166a85f8f7077fe7"
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://source-001.example.test/records/map-B",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-2.bin",
+        "status": 200,
+        "bytes": 163,
+        "sha256": "c95b98edc6a9906dc15805b95b6bfd2161e337297d891ed9afef69a703abf53f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "map",
+  "id": "map-B",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "乙地",
+  "references": [
+    "route-A"
+  ],
+  "verified": false
+}
