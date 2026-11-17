@@ -2,10 +2,8 @@
   "kind": "map",
   "id": "map-B",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "乙地",
-  "references": [
-    "route-A"
-  ],
-  "verified": false
+  "segment": "S-21",
+  "border": "河北",
+  "map_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "route_revision": "R-1"
 }

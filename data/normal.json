@@ -12,8 +12,8 @@
       "response": {
         "file": "source-1.bin",
         "status": 200,
-        "bytes": 176,
-        "sha256": "fafa37cb3efada8c640c760e0721893549b33b7aa81a974e166a85f8f7077fe7"
+        "bytes": 159,
+        "sha256": "ca7f5a93fd3212004faf2632cb1d586d3203bb47df139be3ab6186bfc51ad72d"
       }
     },
     {
@@ -25,8 +25,8 @@
       "response": {
         "file": "source-2.bin",
         "status": 200,
-        "bytes": 163,
-        "sha256": "c95b98edc6a9906dc15805b95b6bfd2161e337297d891ed9afef69a703abf53f"
+        "bytes": 210,
+        "sha256": "7e8371eac1c1b160e8033f64672ab5163c2a6d4daf381dcf77c188586d8dabd0"
       }
     }
   ]
